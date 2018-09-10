@@ -104,6 +104,7 @@ class utils:
             pass
         return str(rgb)
 
+       
     @staticmethod
     def get_color_names_list():
         names = set()
